@@ -1,0 +1,33 @@
+Total sales over 3 months: $59989.21
+Monthly sales:
+2023-01: $20542.54
+2023-02: $19451.77
+2023-03: $19994.90
+
+Top items by revenue:
+Latte: $8063.68
+Cappuccino: $7765.37
+Mocha: $7680.90
+Espresso: $6086.48
+Tea: $5789.27
+Americano: $5660.83
+Pastry: $4903.63
+Cake: $4786.95
+Cookie: $4709.95
+Sandwich: $4542.15
+
+Top items by quantity:
+Pastry: 1769
+Latte: 1765
+Cake: 1749
+Cappuccino: 1731
+Espresso: 1714
+Mocha: 1710
+Cookie: 1692
+Tea: 1663
+Sandwich: 1662
+Americano: 1635
+
+Average daily sales: $666.55
+Peak day: 2023-02-28 with $1143.96
+Slowest day: 2023-01-11 with $152.
